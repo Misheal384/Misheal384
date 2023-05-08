@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end development..
 - 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... eversonmisheal@gmail.com
+- 📫 How to reach me ... eversonmisheal2@gmail.com
 
 <!---
 Misheal384/Misheal384 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
