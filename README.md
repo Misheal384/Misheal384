@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Misheal384
-- 👀 I’m interested in front end development..
-- 🌱 I’m currently learning front end development
+- 👀 I’m interested in web and software development..
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... eversonmisheal2@gmail.com
 
